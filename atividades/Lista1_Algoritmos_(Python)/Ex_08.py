@@ -1,0 +1,1 @@
+# Informar um preço de um produto. Calcule e exiba o preço com desconto de 9 % sobre o preço do produto inicial e o preço com reajuste de 10% considerando o preço inicial do produto.
