@@ -1,4 +1,11 @@
+from ast import Try
 import os
+
+try:
+    import pyautogui
+    print('a biblioteca pyautogui foi emportada com sucesso!')
+except ImportError as k:
+    print(f'Erro ao importar uma biblioteca: {k}')
 
 try:
     import numpy
@@ -61,3 +68,4 @@ except ImportError as j:
     print(f'Erro ao importar uma biblioteca: {j}')
 
 os.system('pause')
+os.system('cls')
