@@ -6,13 +6,9 @@
 
 - [x] 3. Calcule a média aritmética das quatro notas de um aluno e mostre, além do valor da média, uma mensagem de "Aprovado", caso a média seja igual ou superior a 6, ou a mensagem "reprovado", caso contrário.
 
-<<<<<<< HEAD
 - [x] 4. Leia dois valores a e b e os escreve com a mensagem: "São múltiplos" ou "Não são múltiplos".
-=======
-- [ ] 4. Leia dois valores a e b e os escreve com a mensagem: "São múltiplos" ou "Não são múltiplos".
->>>>>>> master
 
-- [ ] 5. Receba dois valores a e b e os escreve com a mensagem: "São pares " ou "São ímpares".
+- [x] 5. Receba dois valores a e b e os escreve com a mensagem: "São pares " ou "São ímpares".
 
 - [ ] 6. Leia dois números inteiros e mostre o maior deles. Caso sejam iguais informe ao usuário.
 

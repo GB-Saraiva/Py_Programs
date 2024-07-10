@@ -2,7 +2,6 @@
 import os
 
 x = int(input('Digite um número para descobrir se ele é positivo, negativo ou igual a zero: '))
-
 if x > 0:
     print('{} é um número positivo'.format(x))
 elif x < 0:
